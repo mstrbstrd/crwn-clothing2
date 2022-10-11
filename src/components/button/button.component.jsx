@@ -1,4 +1,6 @@
+import React from 'react';
 import './button.styles.css';
+
 
 const BUTTON_TYPE_CLASSES = {
     google: 'google-sign-in',

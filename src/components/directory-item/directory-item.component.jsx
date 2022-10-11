@@ -1,3 +1,4 @@
+import React from 'react';
 import './directory-item.styles.css';
 
 const DirectoryItem = ({ category }) => {

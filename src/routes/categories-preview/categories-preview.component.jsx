@@ -1,3 +1,4 @@
+import React from 'react';
 import { useContext, Fragment } from "react";
 import { CategoriesContext } from "../../context/categories.context";
 
