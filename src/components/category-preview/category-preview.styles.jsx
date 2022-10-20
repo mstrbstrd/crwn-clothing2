@@ -20,6 +20,7 @@ export const Preview = styled.div`
   column-gap: 20px;
 `;
 
+// SASS
 // .category-preview-container {
 //     display: flex;
 //     flex-direction: column;

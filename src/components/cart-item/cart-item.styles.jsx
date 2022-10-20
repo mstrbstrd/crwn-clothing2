@@ -7,7 +7,7 @@ export const CartItemContainer = styled.div`
   margin-bottom: 15px;
 `;
 
-export const Img = styled.div`
+export const Img = styled.img`
   width: 30%;
 `;
 
@@ -20,10 +20,11 @@ export const ItemDetails = styled.div`
   padding: 10px 20px;
 `;
 
-export const Name = styled.div`
+export const Name = styled.span`
   font-size: 16px;
 `;
 
+// SASS
 // .cart-item-container {
 //     width: 100%;
 //     display: flex;
